@@ -10,4 +10,4 @@ def password_generator():
     random.shuffle(passw_list)
     return "".join(passw_list)
 
-#generate a password simply by call the function password_generator()
+#generate a password simply by calling the function password_generator()
